@@ -1,0 +1,4 @@
+/Users/rajeshkumaran/Documents/Projects/OCREngine/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/invoice1.jpeg 133,200,439,501,0 807,195,909,513,1
+/Users/rajeshkumaran/Documents/Projects/OCREngine/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/invoice3.jpeg 75,500,332,713,0 879,499,1004,704,1
+/Users/rajeshkumaran/Documents/Projects/OCREngine/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/invoice5.jpeg 55,410,273,715,0 779,395,907,702,1
+/Users/rajeshkumaran/Documents/Projects/OCREngine/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/invoice4.jpeg 52,395,293,499,0 730,384,835,476,1
