@@ -1,10 +1,9 @@
 image,image_path,xmin,ymin,xmax,ymax,label,confidence,x_size,y_size
-PAN-CARD-300x188.jpg,/Users/saivignesh/Documents/personal-projects/TrainYourOwnYOLO/Data/Source_Images/Test_Images/PAN-CARD-300x188.jpg,10,92,66,125,1,0.2758735418319702,300,188
-PAN-CARD-300x188.jpg,/Users/saivignesh/Documents/personal-projects/TrainYourOwnYOLO/Data/Source_Images/Test_Images/PAN-CARD-300x188.jpg,5,124,83,152,1,0.7469165325164795,300,188
-Rajesh PAN Card.jpg,/Users/saivignesh/Documents/personal-projects/TrainYourOwnYOLO/Data/Source_Images/Test_Images/Rajesh PAN Card.jpg,11,127,95,160,1,0.9158401489257812,320,200
-PAN CARD.jpg,/Users/saivignesh/Documents/personal-projects/TrainYourOwnYOLO/Data/Source_Images/Test_Images/PAN CARD.jpg,8,224,204,251,1,0.7919516563415527,527,344
-PAN CARD.jpg,/Users/saivignesh/Documents/personal-projects/TrainYourOwnYOLO/Data/Source_Images/Test_Images/PAN CARD.jpg,44,126,224,155,0,0.2631604075431824,527,344
-PAN-CARD-300x188-2.jpg,/Users/saivignesh/Documents/personal-projects/TrainYourOwnYOLO/Data/Source_Images/Test_Images/PAN-CARD-300x188-2.jpg,10,92,66,125,1,0.2758735418319702,300,188
-PAN-CARD-300x188-2.jpg,/Users/saivignesh/Documents/personal-projects/TrainYourOwnYOLO/Data/Source_Images/Test_Images/PAN-CARD-300x188-2.jpg,5,124,83,152,1,0.7469165325164795,300,188
-pan_card.jpg,/Users/saivignesh/Documents/personal-projects/TrainYourOwnYOLO/Data/Source_Images/Test_Images/pan_card.jpg,0,203,156,247,1,0.5626680254936218,495,313
-pan_card.jpg,/Users/saivignesh/Documents/personal-projects/TrainYourOwnYOLO/Data/Source_Images/Test_Images/pan_card.jpg,27,130,139,157,0,0.621205747127533,495,313
+PAN-CARD-300x188.jpg,/content/TrainYourOwnYOLO/Data/Source_Images/Test_Images/PAN-CARD-300x188.jpg,35,124,61,154,1,0.6902760863304138,300,188
+PAN-CARD-300x188.jpg,/content/TrainYourOwnYOLO/Data/Source_Images/Test_Images/PAN-CARD-300x188.jpg,33,69,107,95,0,0.3259338438510895,300,188
+PAN-CARD-300x188-2.jpg,/content/TrainYourOwnYOLO/Data/Source_Images/Test_Images/PAN-CARD-300x188-2.jpg,35,124,61,154,1,0.6902760863304138,300,188
+PAN-CARD-300x188-2.jpg,/content/TrainYourOwnYOLO/Data/Source_Images/Test_Images/PAN-CARD-300x188-2.jpg,33,69,107,95,0,0.3259338438510895,300,188
+pan_card.jpg,/content/TrainYourOwnYOLO/Data/Source_Images/Test_Images/pan_card.jpg,56,212,103,242,1,0.42186209559440613,495,313
+pan_card.jpg,/content/TrainYourOwnYOLO/Data/Source_Images/Test_Images/pan_card.jpg,49,98,115,125,0,0.46531036496162415,495,313
+pan_card.jpg,/content/TrainYourOwnYOLO/Data/Source_Images/Test_Images/pan_card.jpg,48,128,114,157,0,0.899268388748169,495,313
+Rajesh PAN Card.jpg,/content/TrainYourOwnYOLO/Data/Source_Images/Test_Images/Rajesh PAN Card.jpg,30,133,75,155,1,0.8886899352073669,320,200
