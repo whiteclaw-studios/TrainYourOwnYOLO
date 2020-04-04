@@ -2,20 +2,20 @@
     "name": "Annotations",
     "securityToken": "Annotations Token",
     "sourceConnection": {
-        "name": "Invoices",
+        "name": "invoice data",
         "providerType": "localFileSystemProxy",
         "providerOptions": {
-            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiN2MwOGQyYzZlOTNkNGM4N2IyNjkzZDgzNGRjNjBmMjkyNDAxNzExMTNjYjE4YjBlZDUzMzNhMDUyM2U0YjJiNTMyMjg0NjhjMTYyZDE0MjE2MGZmYjA0ZDgwY2QyZDU1OTJkZGIzODI5NTBjOWIzY2MyNWUwZjEwZTE3NzJmNmE5MGE1YjQzM2E3OWYzMThjNmZjMjc2ZDMwZjVkMDEzNTMyZTgzZjM2ZjUwYTdlMTNmMGQyOGM4YWI5ZDczOTNlYzQ0ZmFlMDk0Zjc4MjljMzZmMTM1YTFjM2Q5OWQyODA3YTcwZTZhMmJjMmVhZTQ1OThiZjIxZTU0NWM0ZWRjNSIsIml2IjoiNGZmMmI0MGU5OWI0MDBmOGI2NWE5ODJlYzhhYWI3OTNhOGMwNDI0N2I4MDJkMjE4In0="
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiNTNlMTM0ODQ2Y2RlMzkxOWI4Y2I1ODIzNDVkNzJkMGUxMmE5MGU3ODJhZTBjOTg0ODAzMmFjYzA5NGRlZTk4ZDE0ZjJjZmZkNTNkMWE3YTA2ZGZiNGRlZWUzYTM4MDMxOWFhMjhjZjE0YjUxMjI3ZDU3NTM5MTEwZGMwNjVlZjk3MDRjMjZiMDMwNmI2MmM2YmFjYjM4OTQwY2U0YmFkOWNhMTg2YjZkZWVmZDkzOGUwNmEyNGZhOTJkZTc3MmI1NzFlNWViZTY5YzA4ZDJlM2VhMGIwMTQ4NzUxYTRlZDI3OGE3MGQ2YjRhMTU3MDkzYzBlNzJkYTQzYzExZjVlOSIsIml2IjoiM2Q2NDYzNGQyZDA1YjA5ZTNkNDAwM2FiMzEzNzMyNjZhYTkwYmFjMmExODA3N2YxIn0="
         },
-        "id": "plepzQbg4"
+        "id": "bR8zG_8F0"
     },
     "targetConnection": {
-        "name": "Invoices",
+        "name": "invoice data",
         "providerType": "localFileSystemProxy",
         "providerOptions": {
-            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiYWUwNmYxYjY2N2E5NTdiMjE4YzY1YWQ5YjNkMTA0ZWExNDdhMTBkZDUzNWEzMDY5NGFkM2FjM2Y5NzdkMjkxMjhjYmJhOTdiZGQxNmRiNDhlM2MyZjU0MTlhNGI2MGFmMDAwN2FhMDhlNjE0M2IwNTU2NTQ1MzUwMGRhZjY0YTVjMzFjNzdjYmMzZDIwNmE2MGIxMmQ0NmJkMTBkODg2OTlhZTQyNjhlMzQ3MWEzMzI1ZmU3YTkzZTRkYzRjYTE5N2M1NTg2MTRhYTNlMzNmZDBiMzU2NzNiZDc0MWYyNmQ3MTY1ZjNmZWJkYTM0MDczYzUxOGY3NmViYzY3ZTg4NSIsIml2IjoiZDJmZTZlZWI0MzhmYzgwNWI4NGFiNjg3NTgxYjNlOTgyY2QwMTliNzZlYTI3NmJjIn0="
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiYWUxZGYyOGQ5MmJlOTg2MzcxZTVhNzA5ZjBjZmFlZDcyYjdlOGFkYzJlM2Y2NTgzNjBmYTNkYWRjNWE1MjVhMjljMDQxZTg0Y2RiMDU5ODE3ZmNlOGM2ZjI5MWYzODEwODRlNmZlODY1YTMwMmMyMTFmNjU4N2JkYTZhZDkxOTE2YmZlOGY4NzYxNTIwNzhmNjFjYWYzZDEzNTMxMzhmZTM4MDVhODEyMjc0MDVmMjE0MzAwM2Y5NzVkMzI4NjY1ZDEwZWViYzI5MmViODQ1MzQzZGJiZTIwMGYyODU2MjUxNzA1NTEyZTQ2Zjc3YTE1NjI4NjYyMDQxZDNiNjc3MiIsIml2IjoiYTRlZjMwNDEzMjg4MjEyOTYzOWQ5ZTk1NTMyZDUwM2ViMWRmYTQyMGE5ZWQ0MTE2In0="
         },
-        "id": "plepzQbg4"
+        "id": "bR8zG_8F0"
     },
     "videoSettings": {
         "frameExtractionRate": 15
@@ -30,7 +30,7 @@
             "color": "#e81123"
         }
     ],
-    "id": "q9yrtxPBz",
+    "id": "MqweXK42N",
     "activeLearningSettings": {
         "autoDetect": false,
         "predictTag": true,
@@ -39,11 +39,11 @@
     "exportFormat": {
         "providerType": "csv",
         "providerOptions": {
-            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiN2I5MTFiMTM3OTVmNzllZWMzMTViZDhlMDNlYTJkNjFhY2U2MTRmMDU4MzVlNjEwMjgwODkzMDkwNjQzZGIzMTY4M2Q1MmQxMTgyNTcyYTRlMGExZGMzZTkwYTU4ODFiIiwiaXYiOiIzNmJkYjMyYzVkMDZiY2VjNGNlODA4MjBkMzQwZDJlMTZmZmFhNDhhM2UzMDllYTcifQ=="
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiMTg2MDQ1YWYzNmJiM2YyZDEwNTI1YTBiNDNkNzBmY2FkNmEzZDliY2NiYmU1ZWE2NzUxMTQzOWY3ZDJiNGRhMDRkNmQ0M2Y1MjQzMTEwOTNjYTE4MDc4NGQ3OGExMzI5IiwiaXYiOiI5ZTkyZDFmOWQwYzBmODkzYTg3ZjY2YTNjYTU0NTZmNGM2NzZkZGM3YWRhZjhkZmUifQ=="
         }
     },
     "version": "2.1.0",
-    "lastVisitedAssetId": "8f8b55ee775a79065d0f88d85db6cb29",
+    "lastVisitedAssetId": "d1bc958db471b48dc23ad2d6118b7f2c",
     "assets": {
         "8c34b607c9c183a716284c61b5ac3241": {
             "format": "jpeg",
@@ -66,19 +66,7 @@
                 "width": 1033,
                 "height": 1280
             },
-            "state": 2,
-            "type": 1
-        },
-        "606160025fcea0e95a068d15ef325034": {
-            "format": "jpeg",
-            "id": "606160025fcea0e95a068d15ef325034",
-            "name": "invoice4.jpeg",
-            "path": "file:/Users/rajeshkumaran/Documents/Projects/OCREngine/TrainYourOwnYOLO/Data/Source_Images/Training_Images/invoice4.jpeg",
-            "size": {
-                "width": 839,
-                "height": 1280
-            },
-            "state": 2,
+            "state": 1,
             "type": 1
         },
         "894fcc5e8100998323dfcf7b46086a6b": {
@@ -90,7 +78,7 @@
                 "width": 960,
                 "height": 1280
             },
-            "state": 2,
+            "state": 1,
             "type": 1
         },
         "d1bc958db471b48dc23ad2d6118b7f2c": {
@@ -100,18 +88,6 @@
             "path": "file:/Users/rajeshkumaran/Documents/Projects/OCREngine/TrainYourOwnYOLO/Data/Source_Images/Training_Images/invoice6.jpeg",
             "size": {
                 "width": 941,
-                "height": 1280
-            },
-            "state": 2,
-            "type": 1
-        },
-        "8f8b55ee775a79065d0f88d85db6cb29": {
-            "format": "jpeg",
-            "id": "8f8b55ee775a79065d0f88d85db6cb29",
-            "name": "invoice7.jpeg",
-            "path": "file:/Users/rajeshkumaran/Documents/Projects/OCREngine/TrainYourOwnYOLO/Data/Source_Images/Training_Images/invoice7.jpeg",
-            "size": {
-                "width": 1082,
                 "height": 1280
             },
             "state": 2,
