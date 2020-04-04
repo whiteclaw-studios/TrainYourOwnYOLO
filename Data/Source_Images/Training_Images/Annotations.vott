@@ -5,7 +5,7 @@
         "name": "invoice data",
         "providerType": "localFileSystemProxy",
         "providerOptions": {
-            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiNTNlMTM0ODQ2Y2RlMzkxOWI4Y2I1ODIzNDVkNzJkMGUxMmE5MGU3ODJhZTBjOTg0ODAzMmFjYzA5NGRlZTk4ZDE0ZjJjZmZkNTNkMWE3YTA2ZGZiNGRlZWUzYTM4MDMxOWFhMjhjZjE0YjUxMjI3ZDU3NTM5MTEwZGMwNjVlZjk3MDRjMjZiMDMwNmI2MmM2YmFjYjM4OTQwY2U0YmFkOWNhMTg2YjZkZWVmZDkzOGUwNmEyNGZhOTJkZTc3MmI1NzFlNWViZTY5YzA4ZDJlM2VhMGIwMTQ4NzUxYTRlZDI3OGE3MGQ2YjRhMTU3MDkzYzBlNzJkYTQzYzExZjVlOSIsIml2IjoiM2Q2NDYzNGQyZDA1YjA5ZTNkNDAwM2FiMzEzNzMyNjZhYTkwYmFjMmExODA3N2YxIn0="
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiM2QxYmM2YmE1MDI0NGRhNzhhMmI3ZTBiZjc2N2NmMTcwODlkNzdkM2YxYjYwMzczZTcwMDg4Nzg3MzY4NzBiNzU1NzEwMjZkN2MzNjE5ZjYwYmJlNTQyM2QzNjRiZjM4ZGQyMDc2OWNhZjJhZjkwNGU1MmUzZDc2ZDgzOGQ4MWJiZTFmNjgyNWYyNjQ3ODQzMzczZTAyMWM4OGU5MTM4NzFmZGQ1MTZmOTc0ZTNkMmIzOGRlMmNkN2ExMmIxNjQ3YjRmNWI0ZmE4NWZmYTA0MWVlNTNlYzlhOWM1ZTZmNmM2MDRiMTMxODdhMjY3MTJjOGQ5MjFiZmY2MDE0NjFjNyIsIml2IjoiNGJkNDA1MmU0MTQxNTViOWNiNmZjNDNjYWExNTIwN2NhYjAyMDY2MzU2Y2IyYmQ2In0="
         },
         "id": "bR8zG_8F0"
     },
@@ -13,7 +13,7 @@
         "name": "invoice data",
         "providerType": "localFileSystemProxy",
         "providerOptions": {
-            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiYWUxZGYyOGQ5MmJlOTg2MzcxZTVhNzA5ZjBjZmFlZDcyYjdlOGFkYzJlM2Y2NTgzNjBmYTNkYWRjNWE1MjVhMjljMDQxZTg0Y2RiMDU5ODE3ZmNlOGM2ZjI5MWYzODEwODRlNmZlODY1YTMwMmMyMTFmNjU4N2JkYTZhZDkxOTE2YmZlOGY4NzYxNTIwNzhmNjFjYWYzZDEzNTMxMzhmZTM4MDVhODEyMjc0MDVmMjE0MzAwM2Y5NzVkMzI4NjY1ZDEwZWViYzI5MmViODQ1MzQzZGJiZTIwMGYyODU2MjUxNzA1NTEyZTQ2Zjc3YTE1NjI4NjYyMDQxZDNiNjc3MiIsIml2IjoiYTRlZjMwNDEzMjg4MjEyOTYzOWQ5ZTk1NTMyZDUwM2ViMWRmYTQyMGE5ZWQ0MTE2In0="
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiNjM0ODgyNmYyMzVhMmU4ZWI3ZDEyNGFhZGNlN2E2MmViZmY3MmRiNmFkMGM5NWFhZTg2NDIwYjhmYzNmMjlkY2E1MWYzYzk2MDRhOTE1YThlNzg1NTkyZjM4ZjZlZTk3YjIzOTRlN2JmNjg1MmI5M2E0NzFjYjZiNzAxMmYzMDc3ZTcxNjQxOWYwYzFhZTZhYTI5OTIyYjJmMTgxMGUxYmVmMzgxYmZlNzBlMmU2OGY2YTBkMWNkNjQ4NGRiMmVjZTkzYTg5ZTgxYzE1YWI2MGYyNmQ1NjFhYmRkZTRhNzVkMjc0ZWQ2YTQ4NTFjZmRjZDQzNGFmZTEwZTZjMzRjYiIsIml2IjoiY2Q3YmM5NjZjNTNmYTY5MzY3ZmY4ZTkyYjQzMjIxZTJkMmJhY2ZiYzU4MWJkYTUzIn0="
         },
         "id": "bR8zG_8F0"
     },
@@ -39,11 +39,11 @@
     "exportFormat": {
         "providerType": "csv",
         "providerOptions": {
-            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiMTg2MDQ1YWYzNmJiM2YyZDEwNTI1YTBiNDNkNzBmY2FkNmEzZDliY2NiYmU1ZWE2NzUxMTQzOWY3ZDJiNGRhMDRkNmQ0M2Y1MjQzMTEwOTNjYTE4MDc4NGQ3OGExMzI5IiwiaXYiOiI5ZTkyZDFmOWQwYzBmODkzYTg3ZjY2YTNjYTU0NTZmNGM2NzZkZGM3YWRhZjhkZmUifQ=="
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiZDNiYzZiZGM5MWMzYWI4NDY0NDdlMWU2MTM5NjhhNjBkNmUxOTQyNzU3NDRhMTllODRjOWJjNjkwMmI0OTJhZTQzYWJmNWQ5ZjQ4YzRiM2MyZmRlMGU0ZWE3NWVhZDczIiwiaXYiOiJiMzcyN2MzY2IxN2YyNjc3M2JiNTE0MGZiMDlmMzkyZWE5NDJkYjk4YTEyZTNiMWQifQ=="
         }
     },
     "version": "2.1.0",
-    "lastVisitedAssetId": "d1bc958db471b48dc23ad2d6118b7f2c",
+    "lastVisitedAssetId": "606160025fcea0e95a068d15ef325034",
     "assets": {
         "8c34b607c9c183a716284c61b5ac3241": {
             "format": "jpeg",
@@ -66,7 +66,7 @@
                 "width": 1033,
                 "height": 1280
             },
-            "state": 1,
+            "state": 2,
             "type": 1
         },
         "894fcc5e8100998323dfcf7b46086a6b": {
@@ -78,7 +78,7 @@
                 "width": 960,
                 "height": 1280
             },
-            "state": 1,
+            "state": 2,
             "type": 1
         },
         "d1bc958db471b48dc23ad2d6118b7f2c": {
@@ -88,6 +88,18 @@
             "path": "file:/Users/rajeshkumaran/Documents/Projects/OCREngine/TrainYourOwnYOLO/Data/Source_Images/Training_Images/invoice6.jpeg",
             "size": {
                 "width": 941,
+                "height": 1280
+            },
+            "state": 2,
+            "type": 1
+        },
+        "606160025fcea0e95a068d15ef325034": {
+            "format": "jpeg",
+            "id": "606160025fcea0e95a068d15ef325034",
+            "name": "invoice4.jpeg",
+            "path": "file:/Users/rajeshkumaran/Documents/Projects/OCREngine/TrainYourOwnYOLO/Data/Source_Images/Training_Images/invoice4.jpeg",
+            "size": {
+                "width": 839,
                 "height": 1280
             },
             "state": 2,
