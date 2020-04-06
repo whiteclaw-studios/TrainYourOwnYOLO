@@ -1,0 +1,13 @@
+/content/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/invoice11.jpeg 61,362,299,549,0 704,370,794,532,1
+/content/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/invoice1.jpeg 75,496,323,711,0 873,499,999,700,1
+/content/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/invoice13.jpeg 76,283,363,520,0 733,271,843,533,1
+/content/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/invoice10.jpeg 84,370,387,852,0 889,369,1041,860,1
+/content/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/invoice12.jpeg 137,199,458,492,0 803,190,910,499,1
+/content/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/invoice2.jpeg 58,392,327,504,0 732,386,835,506,1
+/content/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/invoice3.jpeg 30,290,400,402,0 1052,282,1177,374,1
+/content/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/invoice5.jpeg 38,260,261,550,0 855,299,943,557,1
+/content/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/invoice4.jpeg 53,413,275,709,0 775,402,888,706,1
+/content/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/invoice6.jpeg 49,505,404,815,0 759,510,845,791,1
+/content/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/invoice7.jpeg 51,255,442,450,0 930,269,1030,445,1
+/content/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/invoice9.jpeg 116,126,458,162,0 1030,132,1138,162,1
+/content/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/invoice8.jpeg 54,342,311,690,0 650,342,760,700,1
