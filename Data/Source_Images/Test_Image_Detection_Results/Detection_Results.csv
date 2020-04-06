@@ -1,0 +1,8 @@
+image,image_path,xmin,ymin,xmax,ymax,label,confidence,x_size,y_size
+invoice12.png,/content/TrainYourOwnYOLO/Data/Source_Images/Test_Images/invoice12.png,857,660,1003,735,1,0.7741871476173401,1060,1376
+invoice12.png,/content/TrainYourOwnYOLO/Data/Source_Images/Test_Images/invoice12.png,95,630,280,763,0,0.8317051529884338,1060,1376
+invoice2.png,/content/TrainYourOwnYOLO/Data/Source_Images/Test_Images/invoice2.png,853,672,997,759,1,0.8100876808166504,1056,1400
+invoice2.png,/content/TrainYourOwnYOLO/Data/Source_Images/Test_Images/invoice2.png,27,640,350,805,0,0.8368211984634399,1056,1400
+invoice3.png,/content/TrainYourOwnYOLO/Data/Source_Images/Test_Images/invoice3.png,915,923,960,1079,1,0.4448075592517853,1056,1688
+invoice1.png,/content/TrainYourOwnYOLO/Data/Source_Images/Test_Images/invoice1.png,811,831,1046,972,1,0.2903265953063965,1062,1638
+invoice1.png,/content/TrainYourOwnYOLO/Data/Source_Images/Test_Images/invoice1.png,0,762,431,1095,0,0.5365543961524963,1062,1638
