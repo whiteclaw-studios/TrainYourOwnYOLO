@@ -1,0 +1,217 @@
+{
+    "name": "Annotations",
+    "securityToken": "Annotations Token",
+    "sourceConnection": {
+        "name": "invoices",
+        "providerType": "localFileSystemProxy",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiNmZjMmE5MDkyN2U5NWVjN2RlZTRkZjg2YTk1YzEzNmI5YjliNDllYTQyMGNjMWI1YWEzNzNhNTViNGFiZjQ5NmU4NWMyNjljOGU4ZDViODkwZmM2OTBhNGE1M2E5ZDFkYjA5NDc2MTlhYWUwM2QwM2JmNzA5MjhhZmY5NDdhNDkzOGUxZGRkNzI5NzFlNjI1MTBlZTFkOGJjNzAzNjcyYjc5NDE4OGMwMjQzYWZiZmRmMGMzN2M1ZDBkZmY3MDM4Mzk4Y2RiNjUzOTIxNjA3NjIyNDVlZmUxMGZmNjYzZTFmODUyNDU1YmU2YWIxYjY4ZWI0OTIwOWI0OGQ1M2NhYSIsIml2IjoiMzEwODM2YWZiM2ZkNjc0MmMwNTMzM2NkNWQ2N2I2MmU0YmU2MWZkZGMwYWYyY2UwIn0="
+        },
+        "id": "8t2YAtTK0"
+    },
+    "targetConnection": {
+        "name": "invoices",
+        "providerType": "localFileSystemProxy",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiYzkzZmEzYjlkNmEyODRhMmU3MjViZDgzMDIyMWNmMjNmZTU2NThjNDk1MzhiY2U1ZGNmOTZhMTY3ODQxZWVlMTZiNDE5OTQ2MGE0YzA2Y2Y5MDEyYWU1ZjIwZTc5MTkwNjMzNTNhZWYwOGE0YjljYTRlMzIxYjM4NGVhY2UzMWMyMjA3NzFkNzQyMjRkNjYxMzllMzgxNjYwNDZlNzZmZDExMGJlYmQ1ZThjNTY4ZmY0N2Y3YTJiMDc1MThjZDM4YjNmZDlhYjlkNWIxYmY1YjNhZDM0Y2VjMTY5OTMwY2U3ZDE1NzJhYjNmODE0MDBiNjdlMGYxMjEwNWY4Mzk4NyIsIml2IjoiNWEyMTViNDM1NGYxYjcxODZmNjQxMGNmYmNkZmMyOGMzYjZhYTkzODM0NWZmNjU4In0="
+        },
+        "id": "8t2YAtTK0"
+    },
+    "videoSettings": {
+        "frameExtractionRate": 15
+    },
+    "tags": [
+        {
+            "name": "name",
+            "color": "#800000"
+        },
+        {
+            "name": "price",
+            "color": "#FF0000"
+        }
+    ],
+    "id": "gmN6u7naF",
+    "activeLearningSettings": {
+        "autoDetect": false,
+        "predictTag": true,
+        "modelPathType": "coco"
+    },
+    "exportFormat": {
+        "providerType": "csv",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiY2JmYzU2ODFmNjRhNGNmOWExMGMxYWNjNDNmNTg5YTBjOTdjMzM5YjJmN2FiODllMTUzYTkxMjI3OTNkYmM2NmZjM2QwNDg1OGU2MjQ3ODJmMjQ3N2YzZDNiNzYyZmY4IiwiaXYiOiI1ZDk2MDMyZDRlY2UwYjc4YzU3M2U1ZTE5NmI4ODVjYzMwZDI0OWIyNTU5YWVhOWQifQ=="
+        }
+    },
+    "version": "2.1.0",
+    "lastVisitedAssetId": "de19dcbaf8c234b14e34bb330424d0a5",
+    "assets": {
+        "bdae54d547f4e0d922057d71e52c316b": {
+            "format": "png",
+            "id": "bdae54d547f4e0d922057d71e52c316b",
+            "name": "invoice1.png",
+            "path": "file:/Users/rajeshkumaran/Documents/Projects/OCREngine/TrainYourOwnYOLO/Data/Source_Images/Training_Images/invoice1.png",
+            "size": {
+                "width": 1062,
+                "height": 1638
+            },
+            "state": 2,
+            "type": 1
+        },
+        "772c2b2b2dfca53fe483021b5194b448": {
+            "format": "png",
+            "id": "772c2b2b2dfca53fe483021b5194b448",
+            "name": "invoice10.png",
+            "path": "file:/Users/rajeshkumaran/Documents/Projects/OCREngine/TrainYourOwnYOLO/Data/Source_Images/Training_Images/invoice10.png",
+            "size": {
+                "width": 1066,
+                "height": 1244
+            },
+            "state": 2,
+            "type": 1
+        },
+        "25c918c5d329a237ae9a9302ddf711b8": {
+            "format": "png",
+            "id": "25c918c5d329a237ae9a9302ddf711b8",
+            "name": "invoice11.png",
+            "path": "file:/Users/rajeshkumaran/Documents/Projects/OCREngine/TrainYourOwnYOLO/Data/Source_Images/Training_Images/invoice11.png",
+            "size": {
+                "width": 1112,
+                "height": 1614
+            },
+            "state": 2,
+            "type": 1
+        },
+        "60c9cbec0b45807cb433d2e1ad0fc231": {
+            "format": "png",
+            "id": "60c9cbec0b45807cb433d2e1ad0fc231",
+            "name": "invoice12.png",
+            "path": "file:/Users/rajeshkumaran/Documents/Projects/OCREngine/TrainYourOwnYOLO/Data/Source_Images/Training_Images/invoice12.png",
+            "size": {
+                "width": 1060,
+                "height": 1376
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2af6e40e6648dbd6e60fadd8a4796177": {
+            "format": "png",
+            "id": "2af6e40e6648dbd6e60fadd8a4796177",
+            "name": "invoice13.png",
+            "path": "file:/Users/rajeshkumaran/Documents/Projects/OCREngine/TrainYourOwnYOLO/Data/Source_Images/Training_Images/invoice13.png",
+            "size": {
+                "width": 1072,
+                "height": 1362
+            },
+            "state": 2,
+            "type": 1
+        },
+        "eef6557d1da3ad2bd47b25c73079050d": {
+            "format": "png",
+            "id": "eef6557d1da3ad2bd47b25c73079050d",
+            "name": "invoice14.png",
+            "path": "file:/Users/rajeshkumaran/Documents/Projects/OCREngine/TrainYourOwnYOLO/Data/Source_Images/Training_Images/invoice14.png",
+            "size": {
+                "width": 1066,
+                "height": 1388
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e1572fc1474738c5f2bdc77834ff9b35": {
+            "format": "png",
+            "id": "e1572fc1474738c5f2bdc77834ff9b35",
+            "name": "invoice2.png",
+            "path": "file:/Users/rajeshkumaran/Documents/Projects/OCREngine/TrainYourOwnYOLO/Data/Source_Images/Training_Images/invoice2.png",
+            "size": {
+                "width": 1056,
+                "height": 1400
+            },
+            "state": 2,
+            "type": 1
+        },
+        "699af5dd82457bf53e25066f8604d3cc": {
+            "format": "png",
+            "id": "699af5dd82457bf53e25066f8604d3cc",
+            "name": "invoice5.png",
+            "path": "file:/Users/rajeshkumaran/Documents/Projects/OCREngine/TrainYourOwnYOLO/Data/Source_Images/Training_Images/invoice5.png",
+            "size": {
+                "width": 1064,
+                "height": 1552
+            },
+            "state": 2,
+            "type": 1
+        },
+        "9b38126ea210bbe877aa6a21446e2845": {
+            "format": "png",
+            "id": "9b38126ea210bbe877aa6a21446e2845",
+            "name": "invoice3.png",
+            "path": "file:/Users/rajeshkumaran/Documents/Projects/OCREngine/TrainYourOwnYOLO/Data/Source_Images/Training_Images/invoice3.png",
+            "size": {
+                "width": 1056,
+                "height": 1688
+            },
+            "state": 2,
+            "type": 1
+        },
+        "056f1bc2ee16bc49bdbd73802949e57d": {
+            "format": "png",
+            "id": "056f1bc2ee16bc49bdbd73802949e57d",
+            "name": "invoice4.png",
+            "path": "file:/Users/rajeshkumaran/Documents/Projects/OCREngine/TrainYourOwnYOLO/Data/Source_Images/Training_Images/invoice4.png",
+            "size": {
+                "width": 1064,
+                "height": 1630
+            },
+            "state": 2,
+            "type": 1
+        },
+        "6532bd443401c37b8cb9f89547e42054": {
+            "format": "png",
+            "id": "6532bd443401c37b8cb9f89547e42054",
+            "name": "invoice6.png",
+            "path": "file:/Users/rajeshkumaran/Documents/Projects/OCREngine/TrainYourOwnYOLO/Data/Source_Images/Training_Images/invoice6.png",
+            "size": {
+                "width": 1054,
+                "height": 1584
+            },
+            "state": 2,
+            "type": 1
+        },
+        "78222d79ea5ec8f622060ed05e095a7b": {
+            "format": "png",
+            "id": "78222d79ea5ec8f622060ed05e095a7b",
+            "name": "invoice7.png",
+            "path": "file:/Users/rajeshkumaran/Documents/Projects/OCREngine/TrainYourOwnYOLO/Data/Source_Images/Training_Images/invoice7.png",
+            "size": {
+                "width": 1060,
+                "height": 1288
+            },
+            "state": 2,
+            "type": 1
+        },
+        "7bf090c7877c9ee2c509f038ee5c847e": {
+            "format": "png",
+            "id": "7bf090c7877c9ee2c509f038ee5c847e",
+            "name": "invoice8.png",
+            "path": "file:/Users/rajeshkumaran/Documents/Projects/OCREngine/TrainYourOwnYOLO/Data/Source_Images/Training_Images/invoice8.png",
+            "size": {
+                "width": 1060,
+                "height": 1678
+            },
+            "state": 2,
+            "type": 1
+        },
+        "de19dcbaf8c234b14e34bb330424d0a5": {
+            "format": "png",
+            "id": "de19dcbaf8c234b14e34bb330424d0a5",
+            "name": "invoice9.png",
+            "path": "file:/Users/rajeshkumaran/Documents/Projects/OCREngine/TrainYourOwnYOLO/Data/Source_Images/Training_Images/invoice9.png",
+            "size": {
+                "width": 1070,
+                "height": 1554
+            },
+            "state": 2,
+            "type": 1
+        }
+    }
+}

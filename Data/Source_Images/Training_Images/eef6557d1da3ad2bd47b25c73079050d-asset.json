@@ -1,0 +1,79 @@
+{
+    "asset": {
+        "format": "png",
+        "id": "eef6557d1da3ad2bd47b25c73079050d",
+        "name": "invoice14.png",
+        "path": "file:/Users/rajeshkumaran/Documents/Projects/OCREngine/TrainYourOwnYOLO/Data/Source_Images/Training_Images/invoice14.png",
+        "size": {
+            "width": 1066,
+            "height": 1388
+        },
+        "state": 2,
+        "type": 1
+    },
+    "regions": [
+        {
+            "id": "iZlYAkX0-",
+            "type": "RECTANGLE",
+            "tags": [
+                "name"
+            ],
+            "boundingBox": {
+                "height": 153.70820593525178,
+                "width": 309.07636938202245,
+                "left": 47.22389981273408,
+                "top": 637.534487410072
+            },
+            "points": [
+                {
+                    "x": 47.22389981273408,
+                    "y": 637.534487410072
+                },
+                {
+                    "x": 356.30026919475654,
+                    "y": 637.534487410072
+                },
+                {
+                    "x": 356.30026919475654,
+                    "y": 791.2426933453237
+                },
+                {
+                    "x": 47.22389981273408,
+                    "y": 791.2426933453237
+                }
+            ]
+        },
+        {
+            "id": "3wFcYwN4p",
+            "type": "RECTANGLE",
+            "tags": [
+                "price"
+            ],
+            "boundingBox": {
+                "height": 150.01821043165467,
+                "width": 141.12584854868913,
+                "left": 845.3046875,
+                "top": 637.2770458633094
+            },
+            "points": [
+                {
+                    "x": 845.3046875,
+                    "y": 637.2770458633094
+                },
+                {
+                    "x": 986.4305360486891,
+                    "y": 637.2770458633094
+                },
+                {
+                    "x": 986.4305360486891,
+                    "y": 787.295256294964
+                },
+                {
+                    "x": 845.3046875,
+                    "y": 787.295256294964
+                }
+            ]
+        }
+    ],
+    "version": "2.1.0"
+}
