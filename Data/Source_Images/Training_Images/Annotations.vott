@@ -2,20 +2,20 @@
     "name": "Annotations",
     "securityToken": "Annotations Token",
     "sourceConnection": {
-        "name": "invoices",
+        "name": "Invoices",
         "providerType": "localFileSystemProxy",
         "providerOptions": {
-            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiZTBiNGU3ZGVjNmQ5YzFiMWMzY2E3Y2FmMzhmYzc4MWM2ZTA4NGNmODM3OWUyMzc3NDU4Njc3NTU2ZGEzNjY2MGU1NjI5NDNjNzFlNjEyNTgwY2E5ZTljYjNlNmEyZTQ4NDFhNDNlZTM2ZThmYWE4ODVlNWNhNDlhMjdlZjFjYTgxNDRmMjc0Yzk2NzA5Nzc5Y2U3NzIwMmY2YzhlYzk4NzhhNDIyNmExZGZlZDZiNTAxMWIyNTkyZWI0YmRhMzNiNWE0OTViZmNjNmI3OGZkYWFiMzVmNzc5YzM4ODhmN2NlYTYzMGJlMWE3NjQzODFlYjBjODE2ODczZjI1N2QzMiIsIml2IjoiMmY5ZDE0ZTI0ZmI5ZTMxYzk3ZGY0OWFiNTgzNjAyN2U0MWQyZDA4ZDM3MDRiZDAzIn0="
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiMzFjMjhmOWZiYTdmYjk3NDJhNmFiMWUzYWY3MGExZWMzOTYyMjExMGY5MDEyMmRjYWNjZDRiZGUzMzYzNjFlZmYwM2QwNjA4YjhjMGI1N2UzZDlhMmM1MzA5ZTAxNGYwOWM1MDhkODJjNTFiYjZjNDM2MDMzOTMzMGEzZGZhNjU1N2EzYjcxMmZlNmQ1ZDU4YzBiOTM5Y2FmY2MyZmMwYTE3YTU4Y2MxYmVlMDE2OTEzYjJhM2IxYjExNjY2ODUxNzZmN2Y4OTg3OGU4Zjk2YTcwYjljNTYxYjUyYTE4NjljZjdlNmQ4MTRmODhkZmUxM2I5OTJjOTE0OTI4N2JkOCIsIml2IjoiYTM4YzQ3MTliYmRlMzE1YWI2YzljOWMyYTIyMmFhMzg0ODgxYjU3OWM3MGRmOWJkIn0="
         },
-        "id": "7ezWA4yGS"
+        "id": "_immHauTa"
     },
     "targetConnection": {
-        "name": "invoices",
+        "name": "Invoices",
         "providerType": "localFileSystemProxy",
         "providerOptions": {
-            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiZTllYTVlNTQ1ODYyZmUyZDEzNjFkMjBiMmE1ODc0MDQ4MzkxM2RhNzFhZmZkYTc5YWJmMDVhNzYxNWY0YzJmYTU3NjZjZGE5NjAzZWI1N2VmMDJmNWRhZDFlZmM2ZmM3NzAxYjc2ZTUxODYxZWVlN2U1N2Y0ZjAwNzgxZWViOWFkMzY1M2EzYjA1MDgyNTJhMGM3YjVlNjI5N2NmMzU3YjU2YjY1Y2JmZmUyNDAzNDdjNTQ2ZjNiYzVkZWM2YTQxNzYxMThkNzg0NmZkNGNmMzFlNzUzM2JlMTBiNjBmNDg0MjQ5NmE2NjhlNzg5YTg5MDhmOWE0ZTM0Yzc4ODg5NiIsIml2IjoiYzUwZjM1NTNjODhmZGIzYjY4Zjg0MDM0YWZlNjA3OWE1OThkZTM2NDU3OWYxYmQxIn0="
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiNTdhMGJjNjM4MTgwNDBlMTA3YWUzZTMxMjc1MTE2ZDAzM2Y1ZTA5OGRlMWU1YTY4ZjQ5NzRjZGJkZGM1YzU3YjY3NDk5NTcwMTliOGIwNGMwM2FmYmFmMzMzMGJjMDBjY2MzZTAxOGU5MGY3YzViZTI4OGQwOWJlNmZlOGFlZDI1ZTg3NGZmYzhmNjEyYmQxZmVmYWRkNTMxODcwYTViZTI0N2JjNjViOGYzZGFhMGFiMjEwNzM4OTA2NWMzM2VhZTEzYWYwZDllNWNiMzRhMGY3YWRiYjM4ODhiNzc5MWZlMTcxYzRlZGUxNDM0MjMwZDg5NGQwYzJmMDkwMGE0OSIsIml2IjoiNGViZjMyYjRhZmRjOWQ3YWMzN2I4MmJlYjUxMTJhNjE4ZWUxZjdhYjNmNDQ4ODE3In0="
         },
-        "id": "7ezWA4yGS"
+        "id": "_immHauTa"
     },
     "videoSettings": {
         "frameExtractionRate": 15
@@ -23,14 +23,14 @@
     "tags": [
         {
             "name": "name",
-            "color": "#FF0000"
+            "color": "#0000FF"
         },
         {
             "name": "price",
-            "color": "#800000"
+            "color": "#800080"
         }
     ],
-    "id": "aetRzJqKt",
+    "id": "EmXb0vqrJ",
     "activeLearningSettings": {
         "autoDetect": false,
         "predictTag": true,
@@ -39,11 +39,11 @@
     "exportFormat": {
         "providerType": "csv",
         "providerOptions": {
-            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiYzliNzMyMGMxMWYyNDQ1Y2RkNDdiZDA3MmExZTYwOTM2ZWEyNTBkNzE2OTQxOWYxOTIwZGRkNDYxZGVhYTMyN2JiNzAxZDZlM2Q2ZGFjYTE1NTc5ZmVhOTQ1YzBlNjY0IiwiaXYiOiI0YWU4NmRmNTZjNjUyYzgwYTYyZTlkNTA5ZTQwMTVmMmM4N2ZlNWIwNmM0NWZmYzEifQ=="
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiNjVhOWNjNzRkMDY2MzA1YjRjYmRiOTYwMDkzOWUyNjY1Nzc4MzUyNGRjN2FlYWJlNjdlYWZkMDg1MGRjMDNiYWYyYmQyYmRiOTIwZjlhMTE5ZDczYWM4ZmEyOTUwZTU4IiwiaXYiOiI1MThlZTY3MzZlMDcyNDc4Y2YyNzZlNzVhZmYyMTQwMzlmYzFjNzE5YWFkMWIxOTYifQ=="
         }
     },
     "version": "2.1.0",
-    "lastVisitedAssetId": "8f8b55ee775a79065d0f88d85db6cb29",
+    "lastVisitedAssetId": "49012adbb5aae67323922c5866243f71",
     "assets": {
         "8c34b607c9c183a716284c61b5ac3241": {
             "format": "jpeg",
@@ -105,18 +105,6 @@
             "state": 2,
             "type": 1
         },
-        "95634c2f5557c01376c2d5c27b2962a2": {
-            "format": "jpeg",
-            "id": "95634c2f5557c01376c2d5c27b2962a2",
-            "name": "invoice3.jpeg",
-            "path": "file:/Users/rajeshkumaran/Documents/Projects/OCREngine/TrainYourOwnYOLO/Data/Source_Images/Training_Images/invoice3.jpeg",
-            "size": {
-                "width": 1188,
-                "height": 1230
-            },
-            "state": 2,
-            "type": 1
-        },
         "6a08a7e28cc7c3a0e0bf16e366296266": {
             "format": "jpeg",
             "id": "6a08a7e28cc7c3a0e0bf16e366296266",
@@ -129,13 +117,25 @@
             "state": 2,
             "type": 1
         },
+        "95634c2f5557c01376c2d5c27b2962a2": {
+            "format": "jpeg",
+            "id": "95634c2f5557c01376c2d5c27b2962a2",
+            "name": "invoice3.jpeg",
+            "path": "file:/Users/rajeshkumaran/Documents/Projects/OCREngine/TrainYourOwnYOLO/Data/Source_Images/Training_Images/invoice3.jpeg",
+            "size": {
+                "width": 1188,
+                "height": 1230
+            },
+            "state": 2,
+            "type": 1
+        },
         "606160025fcea0e95a068d15ef325034": {
             "format": "jpeg",
             "id": "606160025fcea0e95a068d15ef325034",
             "name": "invoice4.jpeg",
             "path": "file:/Users/rajeshkumaran/Documents/Projects/OCREngine/TrainYourOwnYOLO/Data/Source_Images/Training_Images/invoice4.jpeg",
             "size": {
-                "width": 839,
+                "width": 960,
                 "height": 1280
             },
             "state": 2,
@@ -173,6 +173,30 @@
             "size": {
                 "width": 1048,
                 "height": 1280
+            },
+            "state": 2,
+            "type": 1
+        },
+        "76e96a259a3b9626a5112fdb813c1263": {
+            "format": "jpeg",
+            "id": "76e96a259a3b9626a5112fdb813c1263",
+            "name": "invoice8.jpeg",
+            "path": "file:/Users/rajeshkumaran/Documents/Projects/OCREngine/TrainYourOwnYOLO/Data/Source_Images/Training_Images/invoice8.jpeg",
+            "size": {
+                "width": 813,
+                "height": 1280
+            },
+            "state": 2,
+            "type": 1
+        },
+        "49012adbb5aae67323922c5866243f71": {
+            "format": "jpeg",
+            "id": "49012adbb5aae67323922c5866243f71",
+            "name": "invoice9.jpeg",
+            "path": "file:/Users/rajeshkumaran/Documents/Projects/OCREngine/TrainYourOwnYOLO/Data/Source_Images/Training_Images/invoice9.jpeg",
+            "size": {
+                "width": 1224,
+                "height": 822
             },
             "state": 2,
             "type": 1
