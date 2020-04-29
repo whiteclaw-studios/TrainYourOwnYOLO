@@ -1,0 +1,473 @@
+{
+    "name": "ocr",
+    "securityToken": "ocr Token",
+    "sourceConnection": {
+        "name": "ocr",
+        "providerType": "localFileSystemProxy",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiMzg2NGJiZDBmZjk5ZTFiY2Q0MWIzZWRmZTg5MjQ5OWZkOTEzNzBmOTZkMjUwNTI2MTgxYmE1ZjdmYWRlMjFhM2JkYTUxMDBkMmVhYjY5NmE4YWI4Y2I2Y2I2ODRlNjQ3OTMxYTQ5NWZiMmVmZGU0NTA5MDcwZmIzZjQ1ODAwYjYxOThmZTUwNzJjMDY0NDdlYTU5MDk3NDJiM2RiMjYwZWEzYWIwMmQ1NGZhYjJiZTUxMzBiODVhMjgxYzYzY2YzODNhNWQ4NGYyM2E1N2I5YjhmNGI0ZjM0NWQ1NzExYTMiLCJpdiI6ImFhY2ZlZjNlM2IyODlkODk2NzFkNWQzNWFmNDA3YzFlZDMyYjJlZTNhOTFmNDJmYyJ9"
+        },
+        "id": "6PIugfAvv"
+    },
+    "targetConnection": {
+        "name": "ocr-output",
+        "providerType": "localFileSystemProxy",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiMjZkMGM2NDFjYjM3M2Q3NzRhNWI4MGY3MjA4MDI4OGI4ODE0NThhYzMyYzk0OWY2NWY0Y2YyOTQ5MTA2ZTUwN2Q0MDViZDZjNTdlMjM5ZTg1ODAxMmMxMjYyNjhmZjEwYzBlOWNhYWEzMWI3MTBiY2Y3YTJhNTc4ZmZhZmJkZTlkZjFjNTgxYjIwOTBjNjgwMDM4NDJmMzA1ZTIzYjU2NyIsIml2IjoiNjg0ZmI5YjQ1MWRlOTE4MzZmMWZmYmQzNTExYjc0OTU2MTU4YjliNGIxMTkyY2MwIn0="
+        },
+        "id": "Zli-k2viC"
+    },
+    "videoSettings": {
+        "frameExtractionRate": 15
+    },
+    "tags": [
+        {
+            "name": "dealer",
+            "color": "#5db300"
+        },
+        {
+            "name": "description",
+            "color": "#e81123"
+        },
+        {
+            "name": "amount",
+            "color": "#6917aa"
+        }
+    ],
+    "id": "hI5B18xz_",
+    "activeLearningSettings": {
+        "autoDetect": false,
+        "predictTag": true,
+        "modelPathType": "coco"
+    },
+    "exportFormat": {
+        "providerType": "csv",
+        "providerOptions": {
+            "encrypted": "eyJjaXBoZXJ0ZXh0IjoiZGE5MTAzNTFkYWRmNDRjM2M0OTEwMDc4NTg4NTllN2MyNjZhMGUzNTE2M2M4YTZhMDY2ZTI0MmQ0OWNhNjU1YWI3MTFhMGUzYmJjMmEwYmEyODVjMjUzNzUzMTYxYTcyIiwiaXYiOiI0ZjE2ZjE2ZTU0NTYzMDE3NmQ0ZGEwN2U3MDE1ZmM3YWM0MThlMzg4MzhjYjM5ODYifQ=="
+        }
+    },
+    "version": "2.1.0",
+    "lastVisitedAssetId": "c6981af8fac3e320a09916f1751f76cc",
+    "assets": {
+        "2ccabfd116b67fc5313dce2cae1bc6db": {
+            "format": "jpg",
+            "id": "2ccabfd116b67fc5313dce2cae1bc6db",
+            "name": "2222.jpg",
+            "path": "file:/Users/srinisa/Documents/Personal%20Projects/TrainYourOwnYOLO/Data/Source_Images/Test_Images/2222.jpg",
+            "size": {
+                "width": 719,
+                "height": 1280
+            },
+            "state": 2,
+            "type": 1
+        },
+        "05e5b3c5f5beb4758423e71997e41473": {
+            "format": "jpg",
+            "id": "05e5b3c5f5beb4758423e71997e41473",
+            "name": "2393.jpg",
+            "path": "file:/Users/srinisa/Documents/Personal%20Projects/TrainYourOwnYOLO/Data/Source_Images/Test_Images/2393.jpg",
+            "size": {
+                "width": 719,
+                "height": 1280
+            },
+            "state": 2,
+            "type": 1
+        },
+        "41377de3ce73e8880937409ba5da0e63": {
+            "format": "jpg",
+            "id": "41377de3ce73e8880937409ba5da0e63",
+            "name": "2682.jpg",
+            "path": "file:/Users/srinisa/Documents/Personal%20Projects/TrainYourOwnYOLO/Data/Source_Images/Test_Images/2682.jpg",
+            "size": {
+                "width": 719,
+                "height": 1280
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2c06ef22b7983d862bc2af761ac60e24": {
+            "format": "jpg",
+            "id": "2c06ef22b7983d862bc2af761ac60e24",
+            "name": "3020.jpg",
+            "path": "file:/Users/srinisa/Documents/Personal%20Projects/TrainYourOwnYOLO/Data/Source_Images/Test_Images/3020.jpg",
+            "size": {
+                "width": 719,
+                "height": 1280
+            },
+            "state": 2,
+            "type": 1
+        },
+        "1b1e9450c9ac0c9cbb6d64b0eda84b00": {
+            "format": "jpg",
+            "id": "1b1e9450c9ac0c9cbb6d64b0eda84b00",
+            "name": "72ec0241-6644-48ae-badb-683cef8d126e.jpg",
+            "path": "file:/Users/srinisa/Documents/Personal%20Projects/TrainYourOwnYOLO/Data/Source_Images/Test_Images/72ec0241-6644-48ae-badb-683cef8d126e.jpg",
+            "size": {
+                "width": 720,
+                "height": 1280
+            },
+            "state": 2,
+            "type": 1
+        },
+        "181c86e79342fb230ee0aab4b7a279ba": {
+            "format": "jpg",
+            "id": "181c86e79342fb230ee0aab4b7a279ba",
+            "name": "9585965155.jpg",
+            "path": "file:/Users/srinisa/Documents/Personal%20Projects/TrainYourOwnYOLO/Data/Source_Images/Test_Images/9585965155.jpg",
+            "size": {
+                "width": 1152,
+                "height": 864
+            },
+            "state": 2,
+            "type": 1
+        },
+        "b4ff31d9f944807f560bcac2b6408394": {
+            "format": "jpg",
+            "id": "b4ff31d9f944807f560bcac2b6408394",
+            "name": "9788008016.jpg",
+            "path": "file:/Users/srinisa/Documents/Personal%20Projects/TrainYourOwnYOLO/Data/Source_Images/Test_Images/9788008016.jpg",
+            "size": {
+                "width": 720,
+                "height": 1280
+            },
+            "state": 2,
+            "type": 1
+        },
+        "2024e9d0c91f764986db778095657714": {
+            "format": "jpg",
+            "id": "2024e9d0c91f764986db778095657714",
+            "name": "Angappan.jpg",
+            "path": "file:/Users/srinisa/Documents/Personal%20Projects/TrainYourOwnYOLO/Data/Source_Images/Test_Images/Angappan.jpg",
+            "size": {
+                "width": 4000,
+                "height": 3000
+            },
+            "state": 1,
+            "type": 1
+        },
+        "963bb7b6598e2d49b8e53c87ded89cd0": {
+            "format": "jpg",
+            "id": "963bb7b6598e2d49b8e53c87ded89cd0",
+            "name": "Arif%25201.jpg",
+            "path": "file:/Users/srinisa/Documents/Personal%20Projects/TrainYourOwnYOLO/Data/Source_Images/Test_Images/Arif%25201.jpg",
+            "size": {
+                "width": 719,
+                "height": 1280
+            },
+            "state": 2,
+            "type": 1
+        },
+        "0e4fbadfad9336100fdab934d95cc202": {
+            "format": "jpg",
+            "id": "0e4fbadfad9336100fdab934d95cc202",
+            "name": "Arif%25202.jpg",
+            "path": "file:/Users/srinisa/Documents/Personal%20Projects/TrainYourOwnYOLO/Data/Source_Images/Test_Images/Arif%25202.jpg",
+            "size": {
+                "width": 719,
+                "height": 1280
+            },
+            "state": 2,
+            "type": 1
+        },
+        "07d0b9204dc98b7671d529c47d83d4c0": {
+            "format": "jpg",
+            "id": "07d0b9204dc98b7671d529c47d83d4c0",
+            "name": "Arif%25203.jpg",
+            "path": "file:/Users/srinisa/Documents/Personal%20Projects/TrainYourOwnYOLO/Data/Source_Images/Test_Images/Arif%25203.jpg",
+            "size": {
+                "width": 719,
+                "height": 1280
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ac09e61cdd5ed8cc00b4b18e153c2415": {
+            "format": "jpg",
+            "id": "ac09e61cdd5ed8cc00b4b18e153c2415",
+            "name": "Arif%25204.jpg",
+            "path": "file:/Users/srinisa/Documents/Personal%20Projects/TrainYourOwnYOLO/Data/Source_Images/Test_Images/Arif%25204.jpg",
+            "size": {
+                "width": 719,
+                "height": 1280
+            },
+            "state": 2,
+            "type": 1
+        },
+        "038189d7bac22bc06de5e0281a140f5c": {
+            "format": "jpg",
+            "id": "038189d7bac22bc06de5e0281a140f5c",
+            "name": "Arif%25205.jpg",
+            "path": "file:/Users/srinisa/Documents/Personal%20Projects/TrainYourOwnYOLO/Data/Source_Images/Test_Images/Arif%25205.jpg",
+            "size": {
+                "width": 719,
+                "height": 1280
+            },
+            "state": 2,
+            "type": 1
+        },
+        "05e59e4dd70f1316af3eba891eaa1bac": {
+            "format": "jpg",
+            "id": "05e59e4dd70f1316af3eba891eaa1bac",
+            "name": "Ashik%2520Raguman%25201.jpg",
+            "path": "file:/Users/srinisa/Documents/Personal%20Projects/TrainYourOwnYOLO/Data/Source_Images/Test_Images/Ashik%2520Raguman%25201.jpg",
+            "size": {
+                "width": 719,
+                "height": 1280
+            },
+            "state": 1,
+            "type": 1
+        },
+        "b84e1a805f14d2edcb37bcdf36fa6c65": {
+            "format": "jpg",
+            "id": "b84e1a805f14d2edcb37bcdf36fa6c65",
+            "name": "Ashik%2520Raguman%25202.jpg",
+            "path": "file:/Users/srinisa/Documents/Personal%20Projects/TrainYourOwnYOLO/Data/Source_Images/Test_Images/Ashik%2520Raguman%25202.jpg",
+            "size": {
+                "width": 719,
+                "height": 1280
+            },
+            "state": 2,
+            "type": 1
+        },
+        "95ee594a7f7e4293039df2e90b2dcb27": {
+            "format": "jpg",
+            "id": "95ee594a7f7e4293039df2e90b2dcb27",
+            "name": "Ashik%2520Raguman%25203.jpg",
+            "path": "file:/Users/srinisa/Documents/Personal%20Projects/TrainYourOwnYOLO/Data/Source_Images/Test_Images/Ashik%2520Raguman%25203.jpg",
+            "size": {
+                "width": 1280,
+                "height": 719
+            },
+            "state": 1,
+            "type": 1
+        },
+        "43a2d4dcf7ac141a138a3b674a15223f": {
+            "format": "jpg",
+            "id": "43a2d4dcf7ac141a138a3b674a15223f",
+            "name": "Ashik%2520Raguman%25204.jpg",
+            "path": "file:/Users/srinisa/Documents/Personal%20Projects/TrainYourOwnYOLO/Data/Source_Images/Test_Images/Ashik%2520Raguman%25204.jpg",
+            "size": {
+                "width": 1280,
+                "height": 719
+            },
+            "state": 1,
+            "type": 1
+        },
+        "1dd5c686210e20c71890214d6117f2ae": {
+            "format": "jpg",
+            "id": "1dd5c686210e20c71890214d6117f2ae",
+            "name": "Ashik%2520Raguman%25205.jpg",
+            "path": "file:/Users/srinisa/Documents/Personal%20Projects/TrainYourOwnYOLO/Data/Source_Images/Test_Images/Ashik%2520Raguman%25205.jpg",
+            "size": {
+                "width": 1280,
+                "height": 719
+            },
+            "state": 1,
+            "type": 1
+        },
+        "9909dad5f5421f10616ec3a2e784a7a4": {
+            "format": "jpg",
+            "id": "9909dad5f5421f10616ec3a2e784a7a4",
+            "name": "Halgekar%25201.jpg",
+            "path": "file:/Users/srinisa/Documents/Personal%20Projects/TrainYourOwnYOLO/Data/Source_Images/Test_Images/Halgekar%25201.jpg",
+            "size": {
+                "width": 2656,
+                "height": 3934
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ece516945d862ace2b370357469a0ab4": {
+            "format": "jpg",
+            "id": "ece516945d862ace2b370357469a0ab4",
+            "name": "Halgekar%25202.jpg",
+            "path": "file:/Users/srinisa/Documents/Personal%20Projects/TrainYourOwnYOLO/Data/Source_Images/Test_Images/Halgekar%25202.jpg",
+            "size": {
+                "width": 2805,
+                "height": 4009
+            },
+            "state": 2,
+            "type": 1
+        },
+        "63d2d517d51ef6af8eb7c35779b73228": {
+            "format": "jpg",
+            "id": "63d2d517d51ef6af8eb7c35779b73228",
+            "name": "Halgekar%25203.jpg",
+            "path": "file:/Users/srinisa/Documents/Personal%20Projects/TrainYourOwnYOLO/Data/Source_Images/Test_Images/Halgekar%25203.jpg",
+            "size": {
+                "width": 2540,
+                "height": 3841
+            },
+            "state": 2,
+            "type": 1
+        },
+        "d42f3df23b308efb25696f3172ec817c": {
+            "format": "jpg",
+            "id": "d42f3df23b308efb25696f3172ec817c",
+            "name": "Halgekar%25204.jpg",
+            "path": "file:/Users/srinisa/Documents/Personal%20Projects/TrainYourOwnYOLO/Data/Source_Images/Test_Images/Halgekar%25204.jpg",
+            "size": {
+                "width": 2732,
+                "height": 4010
+            },
+            "state": 2,
+            "type": 1
+        },
+        "74c3725be7cb5217050a9b5a346f0929": {
+            "format": "jpg",
+            "id": "74c3725be7cb5217050a9b5a346f0929",
+            "name": "Halgekar%25205.jpg",
+            "path": "file:/Users/srinisa/Documents/Personal%20Projects/TrainYourOwnYOLO/Data/Source_Images/Test_Images/Halgekar%25205.jpg",
+            "size": {
+                "width": 2529,
+                "height": 3719
+            },
+            "state": 2,
+            "type": 1
+        },
+        "ee973e4b8b160c8c4985f1a70656661c": {
+            "format": "jpg",
+            "id": "ee973e4b8b160c8c4985f1a70656661c",
+            "name": "Halgekar%25206.jpg",
+            "path": "file:/Users/srinisa/Documents/Personal%20Projects/TrainYourOwnYOLO/Data/Source_Images/Test_Images/Halgekar%25206.jpg",
+            "size": {
+                "width": 2773,
+                "height": 3957
+            },
+            "state": 2,
+            "type": 1
+        },
+        "a5fd6fc72c0d95e00d784c11d762894a": {
+            "format": "jpg",
+            "id": "a5fd6fc72c0d95e00d784c11d762894a",
+            "name": "Pandiyan%25201.jpg",
+            "path": "file:/Users/srinisa/Documents/Personal%20Projects/TrainYourOwnYOLO/Data/Source_Images/Test_Images/Pandiyan%25201.jpg",
+            "size": {
+                "width": 4608,
+                "height": 3456
+            },
+            "state": 1,
+            "type": 1
+        },
+        "7190891e629d93cf1441a1545db21a0d": {
+            "format": "jpg",
+            "id": "7190891e629d93cf1441a1545db21a0d",
+            "name": "Pandiyan%25202.jpg",
+            "path": "file:/Users/srinisa/Documents/Personal%20Projects/TrainYourOwnYOLO/Data/Source_Images/Test_Images/Pandiyan%25202.jpg",
+            "size": {
+                "width": 648,
+                "height": 1152
+            },
+            "state": 2,
+            "type": 1
+        },
+        "da9da570c737d1407b69094e51d680d3": {
+            "format": "jpg",
+            "id": "da9da570c737d1407b69094e51d680d3",
+            "name": "Pandiyan%25205.jpg",
+            "path": "file:/Users/srinisa/Documents/Personal%20Projects/TrainYourOwnYOLO/Data/Source_Images/Test_Images/Pandiyan%25205.jpg",
+            "size": {
+                "width": 4608,
+                "height": 3456
+            },
+            "state": 1,
+            "type": 1
+        },
+        "07cfb2d2734ce68773cdbb0c4321f698": {
+            "format": "jpg",
+            "id": "07cfb2d2734ce68773cdbb0c4321f698",
+            "name": "Pawate%25201.jpg",
+            "path": "file:/Users/srinisa/Documents/Personal%20Projects/TrainYourOwnYOLO/Data/Source_Images/Test_Images/Pawate%25201.jpg",
+            "size": {
+                "width": 2690,
+                "height": 3900
+            },
+            "state": 2,
+            "type": 1
+        },
+        "83bc9b4b27b836c5e60fa7023103e3f4": {
+            "format": "jpg",
+            "id": "83bc9b4b27b836c5e60fa7023103e3f4",
+            "name": "Pawate%25202.jpg",
+            "path": "file:/Users/srinisa/Documents/Personal%20Projects/TrainYourOwnYOLO/Data/Source_Images/Test_Images/Pawate%25202.jpg",
+            "size": {
+                "width": 2568,
+                "height": 3975
+            },
+            "state": 2,
+            "type": 1
+        },
+        "306182db1f835ac7e104ace507b85647": {
+            "format": "jpg",
+            "id": "306182db1f835ac7e104ace507b85647",
+            "name": "Pawate%25203.jpg",
+            "path": "file:/Users/srinisa/Documents/Personal%20Projects/TrainYourOwnYOLO/Data/Source_Images/Test_Images/Pawate%25203.jpg",
+            "size": {
+                "width": 2634,
+                "height": 3935
+            },
+            "state": 2,
+            "type": 1
+        },
+        "1d4333afee4c9417e4649396b7313718": {
+            "format": "jpg",
+            "id": "1d4333afee4c9417e4649396b7313718",
+            "name": "Raghuvaran%252010.jpg",
+            "path": "file:/Users/srinisa/Documents/Personal%20Projects/TrainYourOwnYOLO/Data/Source_Images/Test_Images/Raghuvaran%252010.jpg",
+            "size": {
+                "width": 719,
+                "height": 1280
+            },
+            "state": 2,
+            "type": 1
+        },
+        "e9d32751066620d2ce239410b7be2825": {
+            "format": "jpg",
+            "id": "e9d32751066620d2ce239410b7be2825",
+            "name": "Raghuvaran%252011.jpg",
+            "path": "file:/Users/srinisa/Documents/Personal%20Projects/TrainYourOwnYOLO/Data/Source_Images/Test_Images/Raghuvaran%252011.jpg",
+            "size": {
+                "width": 719,
+                "height": 1280
+            },
+            "state": 2,
+            "type": 1
+        },
+        "fafa64d48c769a149c8e524fe0ecab5d": {
+            "format": "jpg",
+            "id": "fafa64d48c769a149c8e524fe0ecab5d",
+            "name": "Raghuvaran%25208.jpg",
+            "path": "file:/Users/srinisa/Documents/Personal%20Projects/TrainYourOwnYOLO/Data/Source_Images/Test_Images/Raghuvaran%25208.jpg",
+            "size": {
+                "width": 719,
+                "height": 1280
+            },
+            "state": 2,
+            "type": 1
+        },
+        "af6f39198fc51b814883bdce623f8975": {
+            "format": "jpg",
+            "id": "af6f39198fc51b814883bdce623f8975",
+            "name": "Raghuvaran%25209.jpg",
+            "path": "file:/Users/srinisa/Documents/Personal%20Projects/TrainYourOwnYOLO/Data/Source_Images/Test_Images/Raghuvaran%25209.jpg",
+            "size": {
+                "width": 719,
+                "height": 1280
+            },
+            "state": 2,
+            "type": 1
+        },
+        "c6981af8fac3e320a09916f1751f76cc": {
+            "format": "PNG",
+            "id": "c6981af8fac3e320a09916f1751f76cc",
+            "name": "Raghuveer.PNG",
+            "path": "file:/Users/srinisa/Documents/Personal%20Projects/TrainYourOwnYOLO/Data/Source_Images/Test_Images/Raghuveer.PNG",
+            "size": {
+                "width": 719,
+                "height": 1280
+            },
+            "state": 2,
+            "type": 1
+        }
+    }
+}
